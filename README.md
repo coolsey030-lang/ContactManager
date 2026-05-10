@@ -91,7 +91,7 @@ Contact searchContact(String searchName) {
 
 1. Cloner le dépôt :
    ```bash
-   git clone https://github.com/<votre-username>/ContactsManager.git
+   git clone https://github.com/coolsey030-lang/ContactsManager.git
    ```
 2. `File → Open → dossier ContactsManager`
 3. `File → Project Structure → Project SDK → Java 21`
