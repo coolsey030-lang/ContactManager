@@ -110,4 +110,4 @@ Numero de telephone : +225 05 98 76 54 32
 
 ## Auteur
 
-Projet réalisé par **[Votre Nom]** – L3 Informatique, PIGIER Côte d'Ivoire.
+Projet réalisé par Coulibaly Seydou – L3 Informatique, PIGIER Côte d'Ivoire.
